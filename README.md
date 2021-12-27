@@ -1,2 +1,3 @@
 # Java
-Some funny test with java 
+随着工作进行，有时候反而对手中这个好像很熟悉的工具——Java，感到陌生。
+这个仓库用于自己调试一些Java代码，或是玩一些小项目。
